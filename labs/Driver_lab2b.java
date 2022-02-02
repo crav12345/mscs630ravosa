@@ -77,7 +77,7 @@ public class Driver_lab2b {
     long x,y;
 
     // If remainder is 0, b is the gcd of the original input values.
-    if (a == 0) {
+    if (a == 0 || a == b) {
       dxy[0] = b;
       dxy[1] = 0;
       dxy[2] = 1;
