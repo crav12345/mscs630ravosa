@@ -24,6 +24,3 @@ hs_err_pid*
 
 # Word Files
 *.docx
-
-# PDF Files
-*.pdf
